@@ -1,0 +1,104 @@
+
+Parse trees for sentence 2:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (AJP_JJ (AVP_RBT (AVP_RB 'the')
+                                  (ADV_RBT 'cheapest'))
+                         (ADJ_JJ (one 'one')
+                                 (way 'way')))
+                 (A850 (NOUN_NN 'flight')
+                       (A851 (PP_NP (PREP_IN 'from')
+                                    (A5318 (NP_NP (NOUN_NP 'phoenix')
+                                                  (PREP_IN 'to'))
+                                           (A5319 (NOUN_NP (san 'san')
+                                                           (diego 'diego'))
+                                                  (RELCL_VBZ (NP_WPS 'that')
+                                                             (A4659 (VERB_VBZ 'arrives')
+                                                                    (PP_NN (PREP_IN 'in')
+                                                                           (A5778 (ADJ_AT 'the')
+                                                                                  (NOUN_NN 'morning'))))))))
+                             (PP_NP (PREP_IN 'on')
+                                    (A5387 (NP_NP 'thursday')
+                                           (NOUN_NP (june 'june')
+                                                    (second 'second')))))))))
+
+-------------------------------------------*-----------------------------------------------
+
+Parse trees for sentence 2:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (AJP_JJ (AVP_RBT (AVP_RB 'the')
+                                  (ADV_RBT 'cheapest'))
+                         (ADJ_JJ (one 'one')
+                                 (way 'way')))
+                 (A850 (NOUN_NN 'flight')
+                       (A851 (PP_NP (PREP_IN 'from')
+                                    (A5318 (NP_NP (NOUN_NP 'phoenix')
+                                                  (PP_NPS (PREP_IN 'to')
+                                                          (NOUN_NPS 'san')))
+                                           (A5319 (NOUN_NP 'diego')
+                                                  (RELCL_VBZ (NP_WPS 'that')
+                                                             (A4659 (VERB_VBZ 'arrives')
+                                                                    (PP_NN (PREP_IN 'in')
+                                                                           (A5778 (ADJ_AT 'the')
+                                                                                  (NOUN_NN 'morning'))))))))
+                             (PP_NP (PREP_IN 'on')
+                                    (A5323 (NOUN_NP 'thursday')
+                                           (AVPNP_NP (june 'june')
+                                                     (second 'second')))))))))
+
+-------------------------------------------*-----------------------------------------------
+
+Parse trees for sentence 2:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (AJP_JJ (AVP_RBT (AVP_RB 'the')
+                                  (ADV_RBT 'cheapest'))
+                         (ADJ_JJ (one 'one')
+                                 (way 'way')))
+                 (A850 (NOUN_NN 'flight')
+                       (A851 (PP_NP (PREP_IN 'from')
+                                    (A5318 (NP_NP (NOUN_NP 'phoenix')
+                                                  (PP_NPS (PREP_IN 'to')
+                                                          (NOUN_NPS 'san')))
+                                           (A5319 (NOUN_NP 'diego')
+                                                  (RELCL_VBZ (NP_WPS 'that')
+                                                             (A4659 (VERB_VBZ 'arrives')
+                                                                    (PP_NN (PREP_IN 'in')
+                                                                           (A5778 (ADJ_AT 'the')
+                                                                                  (NOUN_NN 'morning'))))))))
+                             (PP_NP (PREP_IN 'on')
+                                    (A5365 (NOUN_NP 'thursday')
+                                           (NAPPOS_NP (june 'june')
+                                                      (second 'second')))))))))
+
+-------------------------------------------*-----------------------------------------------
+
+Parse trees for sentence 2:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (AJP_JJ (AVP_RBT (AVP_RB 'the')
+                                  (ADV_RBT 'cheapest'))
+                         (ADJ_JJ (one 'one')
+                                 (way 'way')))
+                 (A850 (NOUN_NN 'flight')
+                       (A851 (PP_NP (PREP_IN 'from')
+                                    (A5318 (NP_NP (NOUN_NP 'phoenix')
+                                                  (PP_NPS (PREP_IN 'to')
+                                                          (NOUN_NPS 'san')))
+                                           (A5319 (NOUN_NP 'diego')
+                                                  (RELCL_VBZ (NP_WPS 'that')
+                                                             (A4659 (VERB_VBZ 'arrives')
+                                                                    (PP_NN (PREP_IN 'in')
+                                                                           (A5778 (ADJ_AT 'the')
+                                                                                  (NOUN_NN 'morning'))))))))
+                             (PP_NP (PREP_IN 'on')
+                                    (A5387 (NP_NP 'thursday')
+                                           (NOUN_NP (june 'june')
+                                                    (second 'second')))))))))
+
+-------------------------------------------*-----------------------------------------------

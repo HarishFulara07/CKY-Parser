@@ -1,0 +1,63 @@
+Parse trees for sentence 3:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (ADJ_AT 'the')
+                 (A456 (NP_NN (AJP_JJT 'cheapest')
+                              (A280 (QUANP_CD 'one')
+                                    (NOUN_NN 'way')))
+                       (A457 (NOUN_NN 'flight')
+                             (A458 (PP_NP (PREP_IN 'from')
+                                          (NOUN_NP 'columbus'))
+                                   (PP_NP (PREP_IN 'to')
+                                          (NOUN_NP 'indianapolis'))))))))
+
+-------------------------------------------*-----------------------------------------------
+
+Parse trees for sentence 3:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (ADJ_AT 'the')
+                 (A511 (AJP_JJT 'cheapest')
+                       (A512 (NP_NN (NP_CD 'one')
+                                    (NOUN_NN 'way'))
+                             (A513 (NOUN_NN 'flight')
+                                   (A514 (PP_NP (PREP_IN 'from')
+                                                (NOUN_NP 'columbus'))
+                                         (PP_NP (PREP_IN 'to')
+                                                (NOUN_NP 'indianapolis')))))))))
+
+-------------------------------------------*-----------------------------------------------
+
+Parse trees for sentence 3:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (ADJ_AT 'the')
+                 (A511 (AJP_JJT 'cheapest')
+                       (A512 (NP_NN (QUANP_CD 'one')
+                                    (NOUN_NN 'way'))
+                             (A513 (NOUN_NN 'flight')
+                                   (A514 (PP_NP (PREP_IN 'from')
+                                                (NOUN_NP 'columbus'))
+                                         (PP_NP (PREP_IN 'to')
+                                                (NOUN_NP 'indianapolis')))))))))
+
+-------------------------------------------*-----------------------------------------------
+
+Parse trees for sentence 3:
+
+(SIGMA (NP_DT 'what')
+   (A4591 (VERB_BEZ 'is')
+          (NP_NN (ADJ_AT 'the')
+                 (A932 (AJP_JJ (AVP_RBT 'cheapest')
+                               (ADJ_JJ (one 'one')
+                                       (way 'way')))
+                       (A933 (NOUN_NN 'flight')
+                             (A934 (PP_NP (PREP_IN 'from')
+                                          (NOUN_NP 'columbus'))
+                                   (PP_NP (PREP_IN 'to')
+                                          (NOUN_NP 'indianapolis'))))))))
+
+-------------------------------------------*-----------------------------------------------
